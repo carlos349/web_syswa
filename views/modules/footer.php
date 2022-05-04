@@ -55,7 +55,7 @@
         <div class="container">
           <div class="row row-15 justify-content-lg-between">
             <div class="col-lg-6 col-xl-6 text-lg-left">
-              <p class="rights"><span>&copy;&nbsp;</span><span class="copyright-year"></span>. All Rights Reserved. Design by <a href="https://www.templatemonster.com">TemplateMonster</a></p>
+              <p class="rights"><span>&copy;&nbsp;</span><span class="copyright-year"></span> SYSWA</p>
             </div>
             <div class="col-lg-6 col-xl-6">
               <ul class="list-inline list-inline-lg text-uppercase">

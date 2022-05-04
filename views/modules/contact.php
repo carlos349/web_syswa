@@ -93,6 +93,12 @@
         </div>
       </section>
       <!-- Page Footer-->
+      <script>
+        $(document).ready(function(){
+          $(".rd-nav-item").removeClass("active")
+          $("#contact").addClass("active")
+        });
+      </script>
 	  <?php include ("footer.php") ?>
     </div>
 

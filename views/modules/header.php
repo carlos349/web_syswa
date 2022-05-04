@@ -9,7 +9,7 @@
                   <!-- RD Navbar Toggle-->
                   <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
                   <!-- RD Navbar Brand-->
-                  <div class="rd-navbar-brand"><a class="brand" href="index.html"><img class="brand-logo-dark" src="views/images/logo-default-261x72.png" alt="" width="261" height="72" srcset="views/images/logo-default-261x72.png 2x"/><img class="brand-logo-light" src="views/images/logo-inverse-133x45.png" alt="" width="133" height="45" srcset="views/images/logo-inverse-266x90.png 2x"/></a>
+                  <div class="rd-navbar-brand"><a class="brand" href="index.html"><img class="brand-logo-dark" src="views/images/logo.png" alt="" width="261" height="72" srcset="views/images/logo-default-261x72.png 2x"/><img class="brand-logo-light" src="views/images/logo-inverse-133x45.png" alt="" width="133" height="45" srcset="views/images/logo-inverse-266x90.png 2x"/></a>
                   </div>
                 </div>
                 <div class="rd-navbar-nav-wrap">
@@ -17,11 +17,11 @@
                   <ul class="rd-navbar-nav">
                     <li class="rd-nav-item active"><a class="rd-nav-link" href="home">Inicio</a>
                     </li>
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="about">Nosotros</a>
+                    <li id="about" class="rd-nav-item"><a class="rd-nav-link" href="about">Nosotros</a>
                     </li>
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="syswaGestion">Syswa Gestión</a>
+                    <li id="syswa" class="rd-nav-item"><a class="rd-nav-link" href="syswaGestion">Syswa Gestión</a>
                     </li>
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="contact">Contacto</a>
+                    <li id="contact" class="rd-nav-item"><a class="rd-nav-link" href="contact">Contacto</a>
                     </li>
                   </ul>
                 </div>

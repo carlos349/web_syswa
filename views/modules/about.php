@@ -234,6 +234,12 @@
           </div>
         </div>
       </section>
+      <script>
+        $(document).ready(function(){
+          $(".rd-nav-item").removeClass("active")
+          $("#about").addClass("active")
+        });
+      </script>
       <!-- Page Footer-->
       <?php include ("footer.php") ?>
     </div>
