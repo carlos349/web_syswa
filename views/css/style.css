@@ -1104,7 +1104,7 @@ a[href*='tel'], a[href*='mailto'] {
 		padding: 38px 15px;
 	}
 	.box-counter-custom .counter {
-		font-size: 290px;
+		font-size: 150px;
 		line-height: 0.8;
 	}
 }
@@ -1113,6 +1113,16 @@ a[href*='tel'], a[href*='mailto'] {
 .ie-10 .box-counter-custom .counter {
 	background-image: none !important;
 }
+
+.planCheck {
+	color: #002d5b;
+	font-size: 3em;
+}
+.planCheck2 {
+	color: #84d152;
+	font-size: 3em;
+}
+
 
 .page .box-wrapper-1 {
 	color: #000000;

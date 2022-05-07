@@ -117,6 +117,82 @@
           </div>
         </div>
       </section>
+
+      <div class="container">
+          <div class="box-grid-wrap">
+            <div class="row no-gutters">
+              <div class="col-md-6 col-lg-4">
+                <div class="row no-gutters flex-md-column-reverse">
+                  
+                  <div class="col-12">
+                    <div class="row no-gutters">
+                      <div class="col-6 col-md-6 box-counter-custom">
+                        <img style="width: 140px;margin-top: 30px;" src="views/images/hosting.png" alt="" width="168" height="39"/> <br>
+                        <div style="margin-top: 30px;" class="title"> <br> Hosting</div>
+                      </div>
+                      <div class="col-6 col-md-6 box-counter-custom">
+                        <img style="width: 140px" class="mt-2" src="views/images/SSL.png" alt="" width="168" height="39"/> <br>
+                        <div class="title"> <br> Certificado SSL</div>
+                      </div>
+                      
+                      <div class="col-6 col-md-6 box-counter-custom">
+                        <img style="width: 140px" class="mt-2" src="views/images/dominio.png" alt="" width="168" height="39"/> <br>
+                        <div class="title"> <br> Dominio</div>
+                      </div>
+
+                      <div class="col-6 col-md-6 box-counter-custom">
+                        <img style="width: 60px; margin-top: -15px;"  src="views/images/mantenimiento.png" alt="" width="168" height="39"/> <br>
+                        <div class="title"> <br> Mantenimiento</div>
+                      </div>
+                    
+                    </div>
+                      
+                  </div>
+                  <div class="col-md-12">
+                    <div class="box-counter-custom">
+                      <div class="counter" style="background-image: url(views/images/año.jpg)">1</div>
+                      <div class="title">Año gratis de</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6 col-lg-4 align-items-start">
+                <div class="row no-gutters">
+                  <div class="col-6 col-md-6 box-counter-custom">
+                    <i class="fa-solid fa-check planCheck"></i> <br>
+                    <div class="title"> 3 secciones</div>
+                  </div>
+                  <div class="col-6 col-md-6 box-counter-custom">
+                    <i class="fa-solid fa-check planCheck"></i> <br>
+                    <div class="title"> Inicio</div>
+                  </div>
+                  <div class="col-6 col-md-6 box-counter-custom">
+                    <i class="fa-solid fa-check planCheck"></i> <br>
+                    <div class="title"> Nosotros</div>
+                  </div>
+                  <div class="col-6 col-md-6 box-counter-custom">
+                    <i class="fa-solid fa-check planCheck"></i> <br>
+                    <div class="title"> Contacto</div>
+                  </div>
+
+                  <div class="col-12 col-md-12 box-counter-custom">
+                    <p>Al culminar el año gratis se deberá pagar anualmente la cantidad de: 39.990
+                      CLP (50$) correspondiente a la renovación de los servicios otorgados en el año gratis.</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-4 box-wrapper-1">
+                <div class="heading-3 title">Landing page</div>
+                <div style="color:#84d152" class="heading-3 title"> <b>80.000 CLP</b> </div>
+                <p>Página informativa, especial para negocios que quieren darse conocer al público.</p>
+                <p>te damos la ventaja de obtener tú página web con un ancho de banda ilimitado, formulario de contacto y hasta 5 correos administrativos.</p>
+                <div class="col-sm-6 text-sm-right mt-4"><a class="button button-default" href="#">¡La quiero!</a></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
       <!-- Latest Works-->
       <section class="section bg-gray-700 context-dark section-relative">
         <div class="container">
