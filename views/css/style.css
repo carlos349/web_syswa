@@ -1000,6 +1000,7 @@ a[href*='tel'], a[href*='mailto'] {
 .box-team img {
 	display: block;
 	width: 100%;
+	height: 332px;
 }
 
 .box-team .title {
@@ -1118,6 +1119,11 @@ a[href*='tel'], a[href*='mailto'] {
 	color: #002d5b;
 	font-size: 3em;
 }
+.planCheck3 {
+	color: #002d5b;
+	font-size: 2em;
+}
+
 .planCheck2 {
 	color: #84d152;
 	font-size: 3em;
@@ -3903,7 +3909,7 @@ textarea.form-input {
 }
 
 .footer-classic a:hover, .footer-classic a:focus {
-	color: #002d5b ;
+	color: #0089ff ;
 }
 
 .footer-minimal {
@@ -4064,7 +4070,7 @@ textarea.form-input {
 .jumbotron-custom .title {
 	font-size: 70px;
 	font-weight: 900;
-	line-height: 0.9;
+	line-height: 1.03;
 	text-transform: uppercase;
 }
 
@@ -5373,7 +5379,6 @@ p.rights a:hover {
 .mock-up-1 img {
 	max-width: 100%;
 	border-radius: 6px;
-	box-shadow: 0 0 45px 0 rgba(0, 0, 0, 0.4);
 }
 
 .mock-up-1 .object {
@@ -5444,6 +5449,10 @@ p.rights a:hover {
 	.image-section .image-container-1 {
 		display: block;
 	}
+}
+
+.noBorder {
+	border: none !important;
 }
 
 /*
@@ -7601,9 +7610,8 @@ html.rd-navbar-fixed-linked .page {
 	-o-transition-property: transform;
 	transition-property: transform;
 	transition-property: transform, -webkit-transform;
-	background-size: cover;
-	background-position: center center;
 }
+
 
 .swiper-invisible-blank-slide {
 	visibility: hidden;
