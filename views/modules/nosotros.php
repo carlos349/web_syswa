@@ -6,69 +6,44 @@
       <?php include ("header.php"); ?>
       <section class="breadcrumbs-custom bg-image context-dark" style="background-image: url(views/images/breadcrumbs-bg-6.jpg);">
         <div class="container">
-          <h2 class="breadcrumbs-custom-title">About Us</h2>
-          <div class="breadcrumbs-custom-subtitle">A few words about our design studio</div>
+          <h2 class="breadcrumbs-custom-title">Nosotros</h2>
+          <div class="breadcrumbs-custom-subtitle">Hacemos crecer tu negocio</div>
         </div>
       </section>
       <!-- Branding-->
       <section class="section section-lg bg-default section-lined">
         <div class="container container-custom-width">
-          <h3 class="text-center">Portfolio</h3>
+          <h3 class="text-center">Portafolio</h3>
           <div class="row row-custom-width row-30 row-xxl-100 row-flex">
             <div class="col-sm-6 col-lg-4 wow fadeInRight">
-              <div class="project-grid" style="background-image: url(views/images/projects-1-518x373.jpg);">
-                <div class="inner"><img src="views/images/projects-logo-250x96.png" alt="" width="250" height="96"/>
-                  <h5 class="title"><a href="#">WTC Publishing</a></h5>
-                  <p class="exeption">We design incredibly creative websites for all our customers located worldwide.</p><a class="button button-light" href="#">View</a>
+              <div class="project-grid" style="background-image: url(views/images/kkspa_inicio.jpg);">
+                <div class="inner"><img src="views/images/logolargo_kk.jpg" alt="" width="250" height="96"/>
+                  <h5 class="title"><a href="#">KK SPA</a></h5>
+                  <p class="exeption">Le diseñamos y desarrollamos un hermoso sitio web, que le da la imagen y confianza que su negocio necesitaba. Ademas de estar conectada a nuestro sistema syswa gestión.</p><a class="button button-light" target="_blank" href="https://kkspa.cl/#/">Ver</a>
                 </div>
               </div>
             </div>
             <div class="col-sm-6 col-lg-4 wow fadeInRight" data-wow-delay="0.2s">
-              <div class="project-grid" style="background-image: url(views/images/projects-2-518x373.jpg);">
+              <div class="project-grid" style="background-image: url(views/images/aleo_inicio.jpg);">
                 <div class="inner"><img src="views/images/projects-logo-250x96.png" alt="" width="250" height="96"/>
-                  <h5 class="title"><a href="#">RDA Shoewear</a></h5>
-                  <p class="exeption">We design incredibly creative websites for all our customers located worldwide.</p><a class="button button-light" href="#">View</a>
+                  <h5 class="title"><a href="#">Creacion Apicolas ALEO</a></h5>
+                  <p class="exeption">Le diseñamos y desarrollamos una ecommerce , que le da la imagen y confianza que su negocio necesitaba. Ahora vende sus productos en linea.</p><a class="button button-light" target="_blank" href="https://apicolasaleo.com/">Ver</a>
                 </div>
               </div>
             </div>
             <div class="col-sm-6 col-lg-4 wow fadeInRight" data-wow-delay="0.4s">
-              <div class="project-grid" style="background-image: url(views/images/projects-3-518x373.jpg);">
-                <div class="inner"><img src="views/images/projects-logo-250x96.png" alt="" width="250" height="96"/>
-                  <h5 class="title"><a href="#">Inter restaurant</a></h5>
-                  <p class="exeption">We design incredibly creative websites for all our customers located worldwide.</p><a class="button button-light" href="#">View</a>
-                </div>
-              </div>
-            </div>
-            <div class="col-sm-6 col-lg-4 wow fadeInRight" data-wow-delay="0.2s">
-              <div class="project-grid" style="background-image: url(views/images/projects-4-518x373.jpg);">
-                <div class="inner"><img src="views/images/projects-logo-250x96.png" alt="" width="250" height="96"/>
-                  <h5 class="title"><a href="#">Create Co.</a></h5>
-                  <p class="exeption">We design incredibly creative websites for all our customers located worldwide.</p><a class="button button-light" href="#">View</a>
-                </div>
-              </div>
-            </div>
-            <div class="col-sm-6 col-lg-4 wow fadeInRight" data-wow-delay="0.4s">
-              <div class="project-grid" style="background-image: url(views/images/projects-5-518x373.jpg);">
-                <div class="inner"><img src="views/images/projects-logo-250x96.png" alt="" width="250" height="96"/>
-                  <h5 class="title"><a href="#">iStep Ltd.</a></h5>
-                  <p class="exeption">We design incredibly creative websites for all our customers located worldwide.</p><a class="button button-light" href="#">View</a>
-                </div>
-              </div>
-            </div>
-            <div class="col-sm-6 col-lg-4 wow fadeInRight" data-wow-delay="0.6s">
-              <div class="project-grid" style="background-image: url(views/images/projects-6-518x373.jpg);">
-                <div class="inner"><img src="views/images/projects-logo-250x96.png" alt="" width="250" height="96"/>
-                  <h5 class="title"><a href="#">Architex</a></h5>
-                  <p class="exeption">We design incredibly creative websites for all our customers located worldwide.</p><a class="button button-light" href="#">View</a>
+              <div class="project-grid" style="background-image: url(views/images/aseosplash_inicio.jpg);">
+                <div class="inner"><img src="views/images/aseosplash_logo.png" alt="" width="250" height="96"/>
+                  <h5 class="title"><a href="#">Aseo Splash</a></h5>
+                  <p class="exeption">Le diseñamos y desarrollamos un hermoso sitio web, que le da la imagen y confianza que su negocio necesitaba. Ademas de estar conectada a nuestro sistema syswa gestión.</p><a class="button button-light" target="_blank" href="https://aseosplash.cl/">Ver</a>
                 </div>
               </div>
             </div>
           </div>
-          <div class="button-wrap-1 text-center"><a class="button button-default" href="#">All projects</a></div>
         </div>
       </section>
       <!-- Team-->
-      <section class="section section-lg bg-default">
+      <!-- <section class="section section-lg bg-default">
         <div class="container">
           <div class="row">
             <div class="col-12">
@@ -128,7 +103,7 @@
             </div>
           </div>
         </div>
-      </section>
+      </section> -->
       <!-- Our clients-->
       <section class="section section-lg section-bottom-0 bg-default section-lined">
         <div class="container container-lined">
@@ -145,8 +120,8 @@
                 <div class="row no-gutters flex-md-column-reverse">
                   <div class="col-md-12">
                     <div class="box-counter-custom">
-                      <div class="counter" style="background-image: url(views/images/bg-image-4.jpg)">19</div>
-                      <div class="title">years of experience</div>
+                      <div class="counter" style="background-image: url(views/images/año.jpg)">5</div>
+                      <div class="title">Años de experiencia</div>
                     </div>
                   </div>
                   <div class="col-12">
@@ -159,10 +134,10 @@
                     <div class="icon icon-sm mdi mdi-arrow-right"></div></a></div>
               </div>
               <div class="col-lg-4 box-wrapper-1">
-                <div class="heading-3 title">Our clients</div>
-                <p>We work with lots of corporate customers located worldwide.</p>
-                <p>Some of our clients became our partners and joined our business loyalty program that allows getting more from our solutions.</p>
-                <div class="img-wrap-1"><img src="views/images/speaker-2-180x70.png" alt="" width="180" height="70"/>
+                <div class="heading-3 title">Nosotros</div>
+                <p>Trabajamos con muchos clientes corporativos ubicados en todo el mundo.</p>
+                <p>Algunos de nuestros clientes se convirtieron en nuestros socios y se unieron a nuestro programa de lealtad comercial que permite obtener más de nuestras soluciones.</p>
+                <div class="img-wrap-1"><img src="views/images/logo.png" alt="" width="180" height="70"/>
                 </div>
               </div>
             </div>
@@ -178,25 +153,21 @@
                 <div class="col-sm-6 col-md-4">
                   <h5>Branding</h5>
                   <ul class="list-xs">
-                    <li><a class="link-item" href="#">Logo Design</a></li>
-                    <li><a class="link-item" href="#">Branding Strategy</a></li>
-                    <li><a class="link-item" href="#">Packaging</a></li>
+                    <li><a class="link-item" href="#">Diseño de logos</a></li>
                   </ul>
                 </div>
                 <div class="col-sm-6 col-md-4">
                   <h5>Marketing</h5>
                   <ul class="list-xs">
-                    <li><a class="link-item" href="#">Online Marketing</a></li>
-                    <li><a class="link-item" href="#">Email Marketing</a></li>
-                    <li><a class="link-item" href="#">SEO</a></li>
+                    <li><a class="link-item" href="#">Marketing Digital</a></li>
                   </ul>
                 </div>
                 <div class="col-sm-6 col-md-4">
-                  <h5>Development</h5>
+                  <h5>Desarrollo</h5>
                   <ul class="list-xs">
-                    <li><a class="link-item" href="#">Landing Pages</a></li>
-                    <li><a class="link-item" href="#">Websites</a></li>
-                    <li><a class="link-item" href="#">Mobile Apps</a></li>
+                    <li><a class="link-item" href="#">Páginas landing</a></li>
+                    <li><a class="link-item" href="#">Sitios web</a></li>
+                    <li><a class="link-item" href="#">SYSWA GESTIÓN</a></li>
                   </ul>
                 </div>
                 <div class="col-sm-6 col-md-4">
@@ -204,30 +175,30 @@
                     <div class="box-counter-main">
                       <div class="counter">10</div><span class="small small_top">+</span>
                     </div>
-                    <div class="box-counter-title">International awards</div>
+                    <div class="box-counter-title">Proyectos terminados</div>
+                  </article>
+                </div>
+                <div class="col-sm-6 col-md-4">
+                  <article class="box-counter">
+                  <div class="box-counter-main">
+                      <div class="counter">5</div><span class="small small_top">+</span>
+                    </div>
+                    <div class="box-counter-title">Cliente en SYSWA GESTIÓN</div>
                   </article>
                 </div>
                 <div class="col-sm-6 col-md-4">
                   <article class="box-counter">
                     <div class="box-counter-main">
-                      <div class="counter">57</div>
+                      <div class="counter">5</div><span class="small small_top">+</span>
                     </div>
-                    <div class="box-counter-title">Finished projects</div>
-                  </article>
-                </div>
-                <div class="col-sm-6 col-md-4">
-                  <article class="box-counter">
-                    <div class="box-counter-main">
-                      <div class="counter">19</div><span class="small small_top">+</span>
-                    </div>
-                    <div class="box-counter-title">Years of experience</div>
+                    <div class="box-counter-title">Años de experiencia</div>
                   </article>
                 </div>
               </div>
             </div>
             <div class="col-lg-3">
-              <div class="heading-3">What we do</div>
-              <div class="big">iStudio offers reliable and creative web design and development services.</div>
+              <div class="heading-3">¿Que hacemos?</div>
+              <div class="big">SYSWA ofrece el desarrollo de tu empresa mediante una imagen en linea del mismo. Su producto estrella es SYSWA GESTION, que se encarga del manejo y organización de tu negocio.</div>
               <div class="img-wrap-1"><img src="views/images/speaker-1-180x80.png" alt="" width="180" height="80"/>
               </div>
             </div>

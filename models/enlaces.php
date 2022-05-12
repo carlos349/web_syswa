@@ -6,8 +6,8 @@ class EnlacesModels{
 
 		if( $enlaces == "home" || 
 			$enlaces == "services"||
-			$enlaces == "contact" ||
-			$enlaces == "about" ||
+			$enlaces == "contacto" ||
+			$enlaces == "nosotros" ||
 			$enlaces == "portfolio" ||
 			$enlaces == "planBronce" ||
 			$enlaces == "item"

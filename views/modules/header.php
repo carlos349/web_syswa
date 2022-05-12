@@ -17,11 +17,11 @@
                   <ul class="rd-navbar-nav">
                     <li class="rd-nav-item active"><a class="rd-nav-link" href="home">Inicio</a>
                     </li>
-                    <li id="about" class="rd-nav-item"><a class="rd-nav-link" href="about">Nosotros</a>
+                    <li id="about" class="rd-nav-item"><a class="rd-nav-link" href="nosotros">Nosotros</a>
                     </li>
                     <li id="syswa" class="rd-nav-item"><a class="rd-nav-link" href="syswaGestion">Syswa Gestión</a>
                     </li>
-                    <li id="contact" class="rd-nav-item"><a class="rd-nav-link" href="contact">Contacto</a>
+                    <li id="contact" class="rd-nav-item"><a class="rd-nav-link" href="contacto">Contacto</a>
                     </li>
                   </ul>
                 </div>

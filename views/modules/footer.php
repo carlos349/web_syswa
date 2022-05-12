@@ -2,31 +2,29 @@
         <div class="container">
           <div class="row row-30 justify-content-lg-between">
             <div class="col-sm-6 col-lg-3 col-xl-3">
-              <h5>Location</h5>
+              <h5>Ubicaciones</h5>
               <ul class="list list-sm">
                 <li>
-                  <p>1418 Riverwood Drive,</p>
+                  <p>Santiago, Chile</p>
                 </li>
                 <li>
-                  <p>Suite 3845 Cottonwood,</p>
-                </li>
-                <li>
-                  <p>CA 96022</p>
-                </li>
-                <li>
-                  <p>United States</p>
+                  <p>Aragua, Venezuela</p>
                 </li>
               </ul>
             </div>
             <div class="col-sm-6 col-lg-4 col-xl-3">
-              <h5>Contacts</h5>
+              <h5>Contactos</h5>
               <dl class="list-terms-custom">
-                <dt>Ph.</dt>
-                <dd><a class="link-default" href="tel:#">1-300-123-1234</a></dd>
+                <dt>Chile.</dt>
+                <dd><a class="link-default">9 4053 8571</a></dd>
               </dl>
               <dl class="list-terms-custom">
-                <dt>Mail.</dt>
-                <dd><a class="link-default" href="mailto:#">Info@demolink.org</a></dd>
+                <dt>Venezuela. </dt>
+                <dd><a class="link-default"> 412 5525 454</a></dd>
+              </dl>
+              <dl class="list-terms-custom">
+                <dt>Correo.</dt>
+                <dd><a class="link-default" href="mailto:info@syswa.net">info@syswa.net</a></dd>
               </dl>
               <ul class="list-inline list-inline-sm">
                 <li><a class="icon icon-sm icon-gray-filled icon-circle mdi mdi-facebook" href="#"></a></li>
@@ -36,15 +34,15 @@
               </ul>
             </div>
             <div class="col-lg-4">
-              <h5>Newsletter</h5>
+              <h5>Boletín informativo</h5>
               <form class="rd-form rd-mailform" data-form-output="form-output-global" data-form-type="contact" method="post" action="bat/rd-mailform.php">
                 <div class="form-wrap form-wrap-icon">
                   <div class="form-icon mdi mdi-email-outline"></div>
                   <input class="form-input" id="footer-email" type="email" name="email" data-constraints="@Email @Required">
-                  <label class="form-label" for="footer-email">E-mail</label>
+                  <label class="form-label" for="footer-email">Correo electrónico</label>
                 </div>
                 <div class="button-wrap">
-                  <button class="button button-default button-invariable" type="submit">Subscribe</button>
+                  <button class="button button-default button-invariable" type="submit">Suscribirse</button>
                 </div>
               </form>
             </div>
@@ -59,9 +57,9 @@
             </div>
             <div class="col-lg-6 col-xl-6">
               <ul class="list-inline list-inline-lg text-uppercase">
-                <li><a href="about-us.html">About us</a></li>
-                <li><a href="#">Our Team</a></li>
-                <li><a href="#">Blog</a></li>
+                <li><a href="nosotros">Nosotros</a></li>
+                <li><a href="contacto">Contacto</a></li>
+                <li><a href="#">SYSWA GESTIÓN</a></li>
               </ul>
             </div>
           </div>
