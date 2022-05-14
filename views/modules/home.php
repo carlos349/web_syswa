@@ -14,6 +14,7 @@
                   <div class="text-1">Todo lo que necesitas</div>
                   <!-- <div class="text-2">es</div> -->
                   <div class="title">syswa gestión</div>
+                  <div class="button-wrap"><a class="button button-default button-invariable" href="#">Me interesa</a></div>
                   <!-- <p class="big">Sistema de agendamiento, diseñado para cubrir todas tus necesidades, pensado para tu pequeño, mediano o gran negocio de servicios, lleva el control con más de 10 secciones administrativas, y un montón de funcionalidades pensadas solo para ti.</p> -->
                 </div>
               </div>
@@ -22,35 +23,7 @@
         </div>
       </section>
 
-      <section class="section bg-gray-700 context-dark section-relative">
-        <div class="container">
-          <div class="row">
-            <div class="col-md-5 mt-4 text-block-1 wow fadeInLeft">
-              <div class="section-sm section-sm-3">
-                <h5>Gestiona tu negocio</h5>
-                <p>Sistema de agendamiento, diseñado para cubrir todas tus necesidades, pensado para tu pequeño, mediano o gran negocio de servicios, lleva el control con más de 10 secciones administrativas, y un montón de funcionalidades pensadas solo para ti.</p>
-                <div class="button-wrap"><a class="button button-default button-invariable" href="#">Me interesa</a></div>
-                
-              </div>
-            </div>
-          </div>
-        </div>
-        <!-- Swiper-->
-        <div class="swiper-section">
-          <div class="swiper-container swiper-slider swiper-slider-1" data-next=".custom-swiper-button-next" data-prev=".custom-swiper-button-prev" data-loop="true">
-            <div class="swiper-wrapper">
-              <div class="swiper-slide" data-slide-bg="views/images/syswa1.png"></div>
-              <div class="swiper-slide" data-slide-bg="views/images/syswa2.png"></div>
-            </div>
-            <div class="swiper-pagination"></div>
-            <!-- Swiper Navigation-->
-          </div>
-          <div class="custom-swiper-button-wrap">
-            <div class="custom-swiper-button-next mdi mdi-arrow-right"></div>
-            <div class="custom-swiper-button-prev mdi mdi-arrow-left"></div>
-          </div>
-        </div>
-      </section>
+     
       <!-- EVERY PROJECT-->
       <section class="section section-xl-custom image-section section-lined">
         <div class="container container-lined">
@@ -66,7 +39,7 @@
               <h3>CADA PROYECTO</h3>
               <div class="big big-custom">ES UN DESAFÍO QUE NOS HACE MEJOR</div>
               <p>Somos un equipo de diseñadores y desarrolladores talentosos que están listos para guiar a nuestros clientes a través de la ejecución impecable y oportuna de cualquier proyecto de diseño web. Desde el primer día, hemos estado entregando sitios web creativos y únicos a nuestros clientes en todo el mundo.</p>
-              <div class="button-wrap-2"><a class="button button-default" href="about-us.html">¿Quieres saber más sobre nosotros?</a></div>
+              <div class="button-wrap-2"><a class="button button-default" href="nosotros">¿Quieres saber más sobre nosotros?</a></div>
             </div>
           </div>
         </div>
@@ -78,12 +51,45 @@
             </div>
             <div class="object object-3"><img class="wow fadeInRight" src="views/images/logokk.png" alt="" width="395" height="243" data-wow-delay="0.4s"/>
             </div>
-            <div class="object object-4"><img class="wow fadeInRight" src="views/images/image-custom-4-209x184.jpg" alt="" width="209" height="184" data-wow-delay="0.6s"/>
+            <div class="object object-4"><img class="wow fadeInRight" src="views/images/kams.png" alt="" width="209" height="184" data-wow-delay="0.6s"/>
             </div>
             <div class="object object-5"><img class="wow fadeInRight" src="views/images/ludi.png" alt="" width="395" height="243" data-wow-delay="0.2s"/>
             </div>
             <div class="object object-6"><img class="wow fadeInRight" src="views/images/aseo.png" alt="" width="275" height="184" data-wow-delay="0.4s"/>
             </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section bg-gray-700 context-dark section-relative">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-5 mt-4 text-block-1 wow fadeInLeft">
+              <div class="section-sm section-sm-3">
+                <h5>GESTIONA TU NEGOCIO</h5>
+                <p>Sistema de agendamiento, diseñado para cubrir todas tus necesidades, pensado para tu pequeño, mediano o gran negocio de servicios, lleva el control con más de 10 secciones administrativas, y un montón de funcionalidades pensadas solo para ti.</p>
+                <div class="button-wrap"><a class="button button-default button-invariable" href="#">Me interesa</a></div>
+                
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- Swiper-->
+        <div class="swiper-section">
+          <div class="swiper-container swiper-slider swiper-slider-1" data-next=".custom-swiper-button-next" data-prev=".custom-swiper-button-prev" data-loop="true">
+            <div class="swiper-wrapper">
+              <div class="swiper-slide" data-slide-bg="views/images/syswa1.png"></div>
+              <div class="swiper-slide" data-slide-bg="views/images/syswa2.png"></div>
+              <div class="swiper-slide" data-slide-bg="views/images/reportesSyswa.png"></div>
+              <div class="swiper-slide" data-slide-bg="views/images/procesar.png"></div>
+              <div class="swiper-slide" data-slide-bg="views/images/gastos.png"></div>
+            </div>
+            <div class="swiper-pagination"></div>
+            <!-- Swiper Navigation-->
+          </div>
+          <div class="custom-swiper-button-wrap">
+            <div class="custom-swiper-button-next mdi mdi-arrow-right"></div>
+            <div class="custom-swiper-button-prev mdi mdi-arrow-left"></div>
           </div>
         </div>
       </section>

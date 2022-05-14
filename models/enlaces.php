@@ -9,7 +9,7 @@ class EnlacesModels{
 			$enlaces == "contacto" ||
 			$enlaces == "nosotros" ||
 			$enlaces == "portfolio" ||
-			$enlaces == "planBronce" ||
+			$enlaces == "syswaGestion" ||
 			$enlaces == "item"
 			 ){
 

@@ -47,9 +47,9 @@
                 <p class="rights"><span>&copy;&nbsp;</span><span class="copyright-year"></span> SYSWA</p>
               <ul class="list-inline list-inline-lg ml-4 text-uppercase">
               <li><a href="home">Inicio</a></li>
-                <li><a href="about">Nosotros</a></li>
+                <li><a href="nosotros">Nosotros</a></li>
                 <li><a href="syswagestion">Syswa Gestión</a></li>
-                <li><a href="contact">Contacto</a></li>
+                <li><a href="contacto">Contacto</a></li>
                 <li><a href="politics">Políticas de privacidad</a></li>
                 <li><a href="terms">Términos y condiciones</a></li>
               </ul>

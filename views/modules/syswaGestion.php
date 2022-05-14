@@ -4,7 +4,7 @@
       <?php include ("header.php"); ?>
       <section class="breadcrumbs-custom bg-image context-dark" style="background-image: url(views/images/jumbotron-1-1919x953.jpg);">
         <div class="container">
-          <h2 class="breadcrumbs-custom-title">Contacto</h2>
+          <h2 class="breadcrumbs-custom-title">Syswa Gestión</h2>
           <div class="breadcrumbs-custom-subtitle">Consulta nuestros contactos o escríbenos un mensaje</div>
         </div>
       </section>
@@ -97,7 +97,7 @@
       <script>
         $(document).ready(function(){
           $(".rd-nav-item").removeClass("active")
-          $("#contact").addClass("active")
+          $("#syswa").addClass("active")
         });
       </script>
 	  <?php include ("footer.php") ?>

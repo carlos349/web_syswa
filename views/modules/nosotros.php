@@ -4,7 +4,7 @@
 	<div class="page">
       <!-- Page Header-->
       <?php include ("header.php"); ?>
-      <section class="breadcrumbs-custom bg-image context-dark" style="background-image: url(views/images/breadcrumbs-bg-6.jpg);">
+      <section class="breadcrumbs-custom bg-image context-dark" style="background-image: url(views/images/jumbotron-1-1919x953.jpg);">
         <div class="container">
           <h2 class="breadcrumbs-custom-title">Nosotros</h2>
           <div class="breadcrumbs-custom-subtitle">Hacemos crecer tu negocio</div>
@@ -17,7 +17,7 @@
           <div class="row row-custom-width row-30 row-xxl-100 row-flex">
             <div class="col-sm-6 col-lg-4 wow fadeInRight">
               <div class="project-grid" style="background-image: url(views/images/kkspa_inicio.jpg);">
-                <div class="inner"><img src="views/images/logolargo_kk.jpg" alt="" width="250" height="96"/>
+                <div class="inner"><img style="width:140px" src="views/images/logokk.png" alt=""/>
                   <h5 class="title"><a href="#">KK SPA</a></h5>
                   <p class="exeption">Le diseñamos y desarrollamos un hermoso sitio web, que le da la imagen y confianza que su negocio necesitaba. Ademas de estar conectada a nuestro sistema syswa gestión.</p><a class="button button-light" target="_blank" href="https://kkspa.cl/#/">Ver</a>
                 </div>
@@ -25,15 +25,17 @@
             </div>
             <div class="col-sm-6 col-lg-4 wow fadeInRight" data-wow-delay="0.2s">
               <div class="project-grid" style="background-image: url(views/images/aleo_inicio.jpg);">
-                <div class="inner"><img src="views/images/projects-logo-250x96.png" alt="" width="250" height="96"/>
+                <div class="inner"><img style="width:140px" src="views/images/apicolas.png" alt="" width="250" height="96"/>
                   <h5 class="title"><a href="#">Creacion Apicolas ALEO</a></h5>
-                  <p class="exeption">Le diseñamos y desarrollamos una ecommerce , que le da la imagen y confianza que su negocio necesitaba. Ahora vende sus productos en linea.</p><a class="button button-light" target="_blank" href="https://apicolasaleo.com/">Ver</a>
+                  <p class="exeption">Le diseñamos y desarrollamos una ecommerce , que le da la imagen y confianza que su negocio necesitaba. Ahora vende sus productos en linea. <br></p>
+                  <br>
+                  <a class="button button-light" target="_blank" href="https://apicolasaleo.com/">Ver</a>
                 </div>
               </div>
             </div>
             <div class="col-sm-6 col-lg-4 wow fadeInRight" data-wow-delay="0.4s">
               <div class="project-grid" style="background-image: url(views/images/aseosplash_inicio.jpg);">
-                <div class="inner"><img src="views/images/aseosplash_logo.png" alt="" width="250" height="96"/>
+                <div class="inner"><img style="width:140px" src="views/images/aseo.png" alt="" width="250" height="96"/>
                   <h5 class="title"><a href="#">Aseo Splash</a></h5>
                   <p class="exeption">Le diseñamos y desarrollamos un hermoso sitio web, que le da la imagen y confianza que su negocio necesitaba. Ademas de estar conectada a nuestro sistema syswa gestión.</p><a class="button button-light" target="_blank" href="https://aseosplash.cl/">Ver</a>
                 </div>
@@ -125,12 +127,12 @@
                     </div>
                   </div>
                   <div class="col-12">
-                    <div class="row no-gutters"><a class="col-6 col-md-6 box-border" href="#"><img src="views/images/brand-6-108x66.png" alt="" width="108" height="66"/></a><a class="col-6 col-md-6 box-border" href="#"><img src="views/images/brand-7-168x39.png" alt="" width="168" height="39"/></a></div>
+                    <div class="row no-gutters"><a class="col-6 col-md-6 box-border" href="#"><img src="views/images/logokk.png" alt="" width="108" height="66"/></a><a class="col-6 col-md-6 box-border" href="#"><img src="views/images/apicolas.png" alt="" width="168" height="39"/></a></div>
                   </div>
                 </div>
               </div>
               <div class="col-md-6 col-lg-4 align-items-start">
-                <div class="row no-gutters"><a class="col-6 col-md-6 box-border" href="#"><img src="views/images/brand-8-119x64.png" alt="" width="119" height="64"/></a><a class="col-6 col-md-6 box-border" href="#"><img src="views/images/brand-9-140x59.png" alt="" width="140" height="59"/></a><a class="col-6 col-md-6 box-border" href="#"><img src="views/images/brand-10-154x33.png" alt="" width="154" height="33"/></a><a class="col-6 col-md-6 box-border" href="#"><img src="views/images/brand-11-122x80.png" alt="" width="122" height="80"/></a><a class="col-12 box-border box-border-1" href="#">
+                <div class="row no-gutters"><a class="col-6 col-md-6 box-border" href="#"><img src="views/images/syswaG.png" alt="" width="119" height="64"/></a><a class="col-6 col-md-6 box-border" href="#"><img src="views/images/aseo.png" alt="" width="140" height="59"/></a><a class="col-6 col-md-6 box-border" href="#"><img src="views/images/kams.png" alt="" width="154" height="33"/></a><a class="col-6 col-md-6 box-border" href="#"><img src="views/images/ludi.png" alt="" width="122" height="80"/></a><a class="col-12 box-border box-border-1" href="#">
                     <div class="icon icon-sm mdi mdi-arrow-right"></div></a></div>
               </div>
               <div class="col-lg-4 box-wrapper-1">
@@ -199,8 +201,7 @@
             <div class="col-lg-3">
               <div class="heading-3">¿Que hacemos?</div>
               <div class="big">SYSWA ofrece el desarrollo de tu empresa mediante una imagen en linea del mismo. Su producto estrella es SYSWA GESTION, que se encarga del manejo y organización de tu negocio.</div>
-              <div class="img-wrap-1"><img src="views/images/speaker-1-180x80.png" alt="" width="180" height="80"/>
-              </div>
+              
             </div>
           </div>
         </div>
