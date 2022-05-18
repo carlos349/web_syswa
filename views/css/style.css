@@ -12128,6 +12128,38 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 	background-position: center;
 }
 
+.box-shadow-pricing { 
+	box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+.color-text p {
+	color: rgba(0, 0, 0, 0.75);
+}
+.color-text h4 {
+	color: rgba(0, 0, 0, 1);
+	font-weight: 700;
+}
+.style-header-princing {
+	padding-bottom: 15px;
+	clip-path: 
+	polygon(
+		0% 0%,
+		100% 0%,
+		100% calc(100% - 15px),
+		0% 100%
+	);
+	transition: all 0.5s ease-out;
+}
+.style-header-princing:hover {
+	padding-bottom: 15px;
+	clip-path: 
+	polygon(
+		0% 0%,
+		100% 0%,
+		100% 100%,
+		0% 100%
+	);
+	transition: all 0.5s ease-out;
+}
 html:not(.ie-11):not(.ios) .parallax-disabled {
 	background-attachment: fixed;
 }
