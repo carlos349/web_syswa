@@ -99,81 +99,85 @@
       <section class="breadcrumbs-custom bg-image context-dark section-90vh section-fullheight" style="background-image: url(views/images/keywords.png);"><div class="section-fullheight-inner section-md"></div>
       </section>
       <!-- Planes -->
-      <section class="section section-sm bg-gray-700 section-lined">
-        <h4 class="title-bold text-center mb-2">Planes SYSWA GESTIÓN</h4>
-        <hr class="w-50 mt-3 mb-5 bg-white">
+      <section class="section section-sm bg-gray section-lined">
+        <h4 class="title-bold text-center mb-2 heading-3" style="color: #1b1b1b;">Planes SYSWA GESTIÓN</h4>
+        <hr class="w-50 mt-3 mb-5 bg-gray-700">
         <div class="container">
           <div class="row">
-            <div class="col-md-4">
+            <div class="col-md-4 p-0">
               <div class="box-shadow-pricing" style="background-color: rgb(255, 255, 255);">
-                <div class="w-100 py-4 style-header-princing" style="background-color: rgba(0, 0, 0, 0.95);">
+                <div class="w-100 py-4 style-header-princing-left" style="background-color: rgb(3 2 65)">
                   <h5 class="text-center text-white">EMPRENDEDOR</h5>
                 </div>
                 <div class="w-100 py-2 color-text" style="background-color: rgb(255, 255, 255);">
-                  <h4 class="text-center mt-2">29.990 CLP/Mes</h4>
+                  <h4 class="text-center mt-2" style="color: #1b1b1b;">29.990 CLP/Mes</h4>
                   <hr class="w-50 mt-3 mb-3">
-                  <p class="text-center font-weight-bolder">2 Empleados</p>
-                  <p class="text-center font-weight-bolder">Única sucursal</p>
-                  <p class="text-center font-weight-bolder">Procesar venta</p>
-                  <p class="text-center font-weight-bolder">Sección agendamiento</p>
-                  <p class="text-center font-weight-bolder">Sección gestión de ventas</p>
-                  <p class="text-center font-weight-bolder">Sección servicios</p>
-                  <p class="text-center font-weight-bolder">Sección clientes</p>
-                  <p class="text-center font-weight-bolder">Sección caja</p>
-                  <p class="text-center font-weight-bolder">Notificaciones</p>
-                  <br><br><br><br>
-                  <hr class="w-50 mb-3 mt-4">
+                  <div style="padding-left: 10%;">
+                    <p class="font-weight-bolder" style="font-size: 1.2em;"><i class="fa-solid fa-check" style="font-size: 1.6em;color: rgb(3 2 65);margin-right: 5px;"></i> 2 Empleados</p>
+                    <p class="font-weight-bolder" style="font-size: 1.2em;"><i class="fa-solid fa-check" style="font-size: 1.6em;color: rgb(3 2 65);margin-right: 5px;"></i>Única sucursal</p>
+                    <p class="font-weight-bolder" style="font-size: 1.2em;"><i class="fa-solid fa-check" style="font-size: 1.6em;color: rgb(3 2 65);margin-right: 5px;"></i>Procesar venta</p>
+                    <p class="font-weight-bolder" style="font-size: 1.2em;"><i class="fa-solid fa-check" style="font-size: 1.6em;color: rgb(3 2 65);margin-right: 5px;"></i>Sección agendamiento</p>
+                    <p class="font-weight-bolder" style="font-size: 1.2em;"><i class="fa-solid fa-check" style="font-size: 1.6em;color: rgb(3 2 65);margin-right: 5px;"></i>Sección gestión de ventas</p>
+                    <p class="font-weight-bolder" style="font-size: 1.2em;"><i class="fa-solid fa-check" style="font-size: 1.6em;color: rgb(3 2 65);margin-right: 5px;"></i>Sección servicios</p>
+                    <p class="font-weight-bolder" style="font-size: 1.2em;"><i class="fa-solid fa-check" style="font-size: 1.6em;color: rgb(3 2 65);margin-right: 5px;"></i>Sección clientes</p>
+                    <p class="font-weight-bolder" style="font-size: 1.2em;"><i class="fa-solid fa-check" style="font-size: 1.6em;color: rgb(3 2 65);margin-right: 5px;"></i>Sección caja</p>
+                    <p class="font-weight-bolder" style="font-size: 1.2em;"><i class="fa-solid fa-check" style="font-size: 1.6em;color: rgb(3 2 65);margin-right: 5px;"></i>Notificaciones</p>
+                  </div>
+                  <hr class="w-50 mb-3 mt-3">
                   <center>
                     <div class="button-wrap"><a class="button button-default button-invariable" href="#">Lo quiero</a></div>
                   </center>
                 </div>
               </div>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-4 p-0" style="border: 2px solid white;">
               <div class="box-shadow-pricing" style="background-color: rgb(255, 255, 255);">
-                <div class="w-100 py-4 style-header-princing" style="background-color: rgba(0, 0, 0, 0.95);">
-                  <h5 class="text-center text-white">BÁSICO</h5>
-                </div>
-                <div class="w-100 py-2 color-text" style="background-color: rgb(255, 255, 255);">
-                  <h4 class="text-center mt-2">39.990 CLP/Mes</h4>
-                  <hr class="w-50 mt-3 mb-3">
-                  <p class="text-center font-weight-bolder">10 Empleados</p>
-                  <p class="text-center font-weight-bolder">Hasta 2 sucursales</p>
-                  <p class="text-center font-weight-bolder">Procesar venta</p>
-                  <p class="text-center font-weight-bolder">Sección agendamiento</p>
-                  <p class="text-center font-weight-bolder">Sección gestión de ventas</p>
-                  <p class="text-center font-weight-bolder">Sección servicios</p>
-                  <p class="text-center font-weight-bolder">Sección clientes</p>
-                  <p class="text-center font-weight-bolder">Sección caja</p>
-                  <p class="text-center font-weight-bolder">Notificaciones</p>
-                  <br><br><br><br><br>
-                  <hr class="w-50 mt-3 mb-3">
-                  <center>
-                    <div class="button-wrap"><a class="button button-default button-invariable" href="#">Lo quiero</a></div>
-                  </center>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4">
-              <div class="box-shadow-pricing" style="background-color: rgb(255, 255, 255);">
-                <div class="w-100 py-4 style-header-princing" style="background-color: rgba(0, 0, 0, 0.95);">
+                <div class="w-100 py-4" style="background-color: rgb(3 2 65)">
                   <h5 class="text-center text-white">PRO</h5>
                 </div>
                 <div class="w-100 py-2 color-text" style="background-color: rgb(255, 255, 255);">
-                  <h4 class="text-center mt-2">49.990 CLP/Mes</h4>
+                  <h4 class="text-center mt-2" style="color: #1b1b1b;">49.990 CLP/Mes</h4>
                   <hr class="w-50 mt-3 mb-3">
-                  <p class="text-center font-weight-bolder">Empleados ilimitados</p>
-                  <p class="text-center font-weight-bolder">Sucursales ilimitadas</p>
-                  <p class="text-center font-weight-bolder">Procesar venta</p>
-                  <p class="text-center font-weight-bolder">Sección agendamiento</p>
-                  <p class="text-center font-weight-bolder">Sección gestión de ventas</p>
-                  <p class="text-center font-weight-bolder">Sección servicios</p>
-                  <p class="text-center font-weight-bolder">Sección clientes</p>
-                  <p class="text-center font-weight-bolder">Sección caja</p>
-                  <p class="text-center font-weight-bolder">Sección reportes</p>
-                  <p class="text-center font-weight-bolder">Sección gastos</p>
-                  <p class="text-center font-weight-bolder">Sección inventario</p>
-                  <p class="text-center font-weight-bolder">Notificaciones</p>
+                  <div style="padding-left: 10%;">
+                    <p class="font-weight-bolder" style="font-size: 1.2em;"><i class="fa-solid fa-check" style="font-size: 1.6em;color: rgb(3 2 65);margin-right: 5px;"></i>Empleados ilimitados</p>
+                    <p class="font-weight-bolder" style="font-size: 1.2em;"><i class="fa-solid fa-check" style="font-size: 1.6em;color: rgb(3 2 65);margin-right: 5px;"></i>Sucursales ilimitadas</p>
+                    <p class="font-weight-bolder" style="font-size: 1.2em;"><i class="fa-solid fa-check" style="font-size: 1.6em;color: rgb(3 2 65);margin-right: 5px;"></i>Procesar venta</p>
+                    <p class="font-weight-bolder" style="font-size: 1.2em;"><i class="fa-solid fa-check" style="font-size: 1.6em;color: rgb(3 2 65);margin-right: 5px;"></i>Sección agendamiento</p>
+                    <p class="font-weight-bolder" style="font-size: 1.2em;"><i class="fa-solid fa-check" style="font-size: 1.6em;color: rgb(3 2 65);margin-right: 5px;"></i>Sección gestión de ventas</p>
+                    <p class="font-weight-bolder" style="font-size: 1.2em;"><i class="fa-solid fa-check" style="font-size: 1.6em;color: rgb(3 2 65);margin-right: 5px;"></i>Sección servicios</p>
+                    <p class="font-weight-bolder" style="font-size: 1.2em;"><i class="fa-solid fa-check" style="font-size: 1.6em;color: rgb(3 2 65);margin-right: 5px;"></i>Sección clientes</p>
+                    <p class="font-weight-bolder" style="font-size: 1.2em;"><i class="fa-solid fa-check" style="font-size: 1.6em;color: rgb(3 2 65);margin-right: 5px;"></i>Sección caja</p>
+                    <p class="font-weight-bolder" style="font-size: 1.2em;"><i class="fa-solid fa-check" style="font-size: 1.6em;color: rgb(3 2 65);margin-right: 5px;"></i>Sección reportes</p>
+                    <p class="font-weight-bolder" style="font-size: 1.2em;"><i class="fa-solid fa-check" style="font-size: 1.6em;color: rgb(3 2 65);margin-right: 5px;"></i>Sección gastos</p>
+                    <p class="font-weight-bolder" style="font-size: 1.2em;"><i class="fa-solid fa-check" style="font-size: 1.6em;color: rgb(3 2 65);margin-right: 5px;"></i>Sección inventario</p>
+                    <p class="font-weight-bolder" style="font-size: 1.2em;"><i class="fa-solid fa-check" style="font-size: 1.6em;color: rgb(3 2 65);margin-right: 5px;"></i>Notificaciones</p>
+                  </div>
+                  <hr class="w-50 mt-3 mb-3">
+                  <center>
+                    <div class="button-wrap"><a class="button button-default button-invariable" href="#">Lo quiero</a></div>
+                  </center>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4 p-0">
+              <div class="box-shadow-pricing" style="background-color: rgb(255, 255, 255);">
+                <div class="w-100 py-4 style-header-princing-right" style="background-color: rgb(3 2 65)">
+                  <h5 class="text-center text-white">BÁSICO</h5>
+                </div>
+                <div class="w-100 py-2 color-text" style="background-color: rgb(255, 255, 255);">
+                  <h4 class="text-center mt-2" style="color: #1b1b1b;">39.990 CLP/Mes</h4>
+                  <hr class="w-50 mt-3 mb-3">
+                  <div style="padding-left: 10%;">
+                    <p class="font-weight-bolder" style="font-size: 1.2em;"><i class="fa-solid fa-check" style="font-size: 1.6em;color: rgb(3 2 65);margin-right: 5px;"></i>10 Empleados</p>
+                    <p class="font-weight-bolder" style="font-size: 1.2em;"><i class="fa-solid fa-check" style="font-size: 1.6em;color: rgb(3 2 65);margin-right: 5px;"></i>Hasta 2 sucursales</p>
+                    <p class="font-weight-bolder" style="font-size: 1.2em;"><i class="fa-solid fa-check" style="font-size: 1.6em;color: rgb(3 2 65);margin-right: 5px;"></i>Procesar venta</p>
+                    <p class="font-weight-bolder" style="font-size: 1.2em;"><i class="fa-solid fa-check" style="font-size: 1.6em;color: rgb(3 2 65);margin-right: 5px;"></i>Sección agendamiento</p>
+                    <p class="font-weight-bolder" style="font-size: 1.2em;"><i class="fa-solid fa-check" style="font-size: 1.6em;color: rgb(3 2 65);margin-right: 5px;"></i>Sección gestión de ventas</p>
+                    <p class="font-weight-bolder" style="font-size: 1.2em;"><i class="fa-solid fa-check" style="font-size: 1.6em;color: rgb(3 2 65);margin-right: 5px;"></i>Sección servicios</p>
+                    <p class="font-weight-bolder" style="font-size: 1.2em;"><i class="fa-solid fa-check" style="font-size: 1.6em;color: rgb(3 2 65);margin-right: 5px;"></i>Sección clientes</p>
+                    <p class="font-weight-bolder" style="font-size: 1.2em;"><i class="fa-solid fa-check" style="font-size: 1.6em;color: rgb(3 2 65);margin-right: 5px;"></i>Sección caja</p>
+                    <p class="font-weight-bolder" style="font-size: 1.2em;"><i class="fa-solid fa-check" style="font-size: 1.6em;color: rgb(3 2 65);margin-right: 5px;"></i>Notificaciones</p>
+                  </div>
                   <hr class="w-50 mt-3 mb-3">
                   <center>
                     <div class="button-wrap"><a class="button button-default button-invariable" href="#">Lo quiero</a></div>
