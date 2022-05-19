@@ -12129,8 +12129,15 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 }
 
 .box-shadow-pricing { 
-	box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+	box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;
 }
+.box-shadow-pricing-right { 
+	box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+/* .box-shadow-pricing { 
+	box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;
+} */
+
 .color-text p {
 	color: rgba(0, 0, 0, 0.75);
 }
@@ -12138,24 +12145,24 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 	color: rgba(0, 0, 0, 1);
 	font-weight: 700;
 }
-.style-header-princing {
-	padding-bottom: 15px;
-	clip-path: 
-	polygon(
-		0% 0%,
-		100% 0%,
-		100% calc(100% - 15px),
-		0% 100%
-	);
-	transition: all 0.5s ease-out;
-}
-.style-header-princing:hover {
+.style-header-princing-left {
 	padding-bottom: 15px;
 	clip-path: 
 	polygon(
 		0% 0%,
 		100% 0%,
 		100% 100%,
+		0% calc(100% - 15px)
+	);
+	transition: all 0.5s ease-out;
+}
+.style-header-princing-right {
+	padding-bottom: 15px;
+	clip-path: 
+	polygon(
+		0% 0%,
+		100% 0%,
+		100% calc(100% - 15px),
 		0% 100%
 	);
 	transition: all 0.5s ease-out;
