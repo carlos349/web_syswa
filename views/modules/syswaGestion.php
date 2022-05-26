@@ -53,7 +53,8 @@
           <div class="row row-40 justify-content-between">
             <div class="col-lg-7 col-xl-8">
               <div class="row no-gutters">
-                <img src="views/images/metricas.gif" alt="" width="100%" height="1050"/>
+                <iframe width="100%" height="580" src="https://www.youtube.com/embed/dAOXF5BxEY8?autoplay=1&mute=1&enablejsapi=1" title="Video de presentación de SYSWA Gestión" frameborder="0" allow="autoplay; accelerometer" allowfullscreen></iframe>
+
               </div>
             </div>
             <div class="col-lg-5 col-xl-4">
