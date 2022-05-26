@@ -215,7 +215,7 @@
               </div>
               <div class="col-lg-4 box-wrapper-1">
                 <div class="heading-3 title">Landing page</div>
-                <div style="color:#84d152" class="heading-3 title"> <b>80.000 CLP</b> </div>
+                <div style="color:#84d152" class="heading-3 title"> <b id="landing">80.000 CLP</b> </div>
                 <p>Página informativa, especial para negocios que quieren darse conocer al público.</p>
                 <p>Te damos la ventaja de obtener tú página web con un ancho de banda ilimitado, formulario de contacto y hasta 5 correos administrativos.</p>
                 <div class="col-sm-6 text-sm-right mt-4"><a class="button button-default" href="#">¡La quiero!</a></div>
@@ -229,7 +229,7 @@
               <div class="row no-gutters">
                 <div class="col-lg-4 box-wrapper-1">
                   <div class="heading-3 title">E-Commerce</div>
-                  <div style="color:#84d152" class="heading-3 title"> <b>130.000 CLP</b> </div>
+                  <div style="color:#84d152" class="heading-3 title"> <b id="ecommerce">130.000 CLP</b> </div>
                   <p>Página informativa, especial para negocios que quieren darse conocer al público.</p>
                   <p>Te damos la ventaja de obtener tú página web con un ancho de banda ilimitado, formulario de contacto y hasta 5 correos administrativos.</p>
                   <div class="col-sm-6 text-sm-right mt-4"><a class="button button-default" href="#">¡La quiero!</a></div>

@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="description" content="PONER DESCRIPCION">
 <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">
-<link rel="stylesheet" href="views/css/bootstrap.css">
+<link rel="stylesheet" href="views/bootstrap/css/bootstrap.css">
 <link rel="shortcut icon" href="views/images/favicon.png" type="image/x-icon">
 <!-- Google Fonts -->
 <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,900">

@@ -1300,3 +1300,26 @@
 
 	});
 }());
+
+$(document).ready(() => {
+	$(".changeCurrency").on("click", () => {
+		if ($("#landing").text().includes("CLP")) {
+			$("#landing").text("100,00 USD")
+			$("#ecommerce").text("160,00 USD")
+		}else{
+			$("#landing").text("80.000 CLP")
+			$("#ecommerce").text("130.000 CLP")
+		}
+		if($("#basicMount").text().includes("CLP")){
+			$("#proMounttt").text("59,90 USD/MES")
+			$("#basicMount").text("49,90 USD/MES")
+			$("#startupMount").text("39,90 USD/MES")
+			
+			
+		}else{
+			$("#proMounttt").text("49.990 CLP/MES")
+			$("#basicMount").text("39.990 CLP/MES")
+			$("#startupMount").text("29.990 CLP/MES")
+		}
+	})
+});

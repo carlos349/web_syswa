@@ -110,7 +110,7 @@
                   <h5 class="text-center text-white">EMPRENDEDOR</h5>
                 </div>
                 <div class="w-100 py-2 color-text" style="background-color: rgb(255, 255, 255);">
-                  <h4 class="text-center mt-2" style="color: #1b1b1b;">29.990 CLP/Mes</h4>
+                  <h4 class="text-center mt-2" id="startupMount" style="color: #1b1b1b;">29.990 CLP/Mes</h4>
                   <hr class="w-50 mt-3 mb-3">
                   <div style="padding-left: 10%;">
                     <p class="font-weight-bolder" style="font-size: 1.2em;"><i class="fa-solid fa-check" style="font-size: 1.6em;color: rgb(3 2 65);margin-right: 5px;"></i> 2 Empleados</p>
@@ -136,7 +136,7 @@
                   <h5 class="text-center text-white">PRO</h5>
                 </div>
                 <div class="w-100 py-2 color-text" style="background-color: rgb(255, 255, 255);">
-                  <h4 class="text-center mt-2" style="color: #1b1b1b;">49.990 CLP/Mes</h4>
+                  <h4 class="text-center mt-2" id="proMounttt" style="color: #1b1b1b;">49.990 CLP/Mes</h4>
                   <hr class="w-50 mt-3 mb-3">
                   <div style="padding-left: 10%;">
                     <p class="font-weight-bolder" style="font-size: 1.2em;"><i class="fa-solid fa-check" style="font-size: 1.6em;color: rgb(3 2 65);margin-right: 5px;"></i>Empleados ilimitados</p>
@@ -165,7 +165,7 @@
                   <h5 class="text-center text-white">BÁSICO</h5>
                 </div>
                 <div class="w-100 py-2 color-text" style="background-color: rgb(255, 255, 255);">
-                  <h4 class="text-center mt-2" style="color: #1b1b1b;">39.990 CLP/Mes</h4>
+                  <h4 class="text-center mt-2" id="basicMount" style="color: #1b1b1b;">39.990 CLP/Mes</h4>
                   <hr class="w-50 mt-3 mb-3">
                   <div style="padding-left: 10%;">
                     <p class="font-weight-bolder" style="font-size: 1.2em;"><i class="fa-solid fa-check" style="font-size: 1.6em;color: rgb(3 2 65);margin-right: 5px;"></i>10 Empleados</p>
