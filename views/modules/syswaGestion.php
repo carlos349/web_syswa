@@ -92,7 +92,8 @@
               <h4>Consulta nuestro manual de uso</h4>
             </div>
             <div class="col-md-2">
-              <div class="button-wrap"><a class="button button-default button-invariable" href="#">Descargar</a></div>
+              <div class="button-wrap"><a download class="button button-default button-invariable" href="views/images/Syswa_Gestion_Manual_de_Usuario.pdf" target="_blank">Descargar</a>
+            </div>
             </div>
           </div>
         </div>
