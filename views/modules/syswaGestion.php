@@ -53,7 +53,7 @@
           <div class="row row-40 justify-content-between">
             <div class="col-lg-7 col-xl-8">
               <div class="row no-gutters">
-                <iframe width="100%" height="580" src="https://www.youtube.com/embed/dAOXF5BxEY8?autoplay=1&mute=1&enablejsapi=1" title="Video de presentación de SYSWA Gestión" frameborder="0" allow="autoplay; accelerometer" allowfullscreen></iframe>
+                <iframe style="z-index: 100;" width="100%" height="580" src="https://www.youtube.com/embed/dAOXF5BxEY8?autoplay=1&mute=1&enablejsapi=1" title="Video de presentación de SYSWA Gestión" frameborder="0" allow="autoplay; accelerometer" allowfullscreen></iframe>
 
               </div>
             </div>
@@ -92,8 +92,7 @@
               <h4>Consulta nuestro manual de uso</h4>
             </div>
             <div class="col-md-2">
-              <div class="button-wrap"><a download class="button button-default button-invariable" href="views/images/Syswa_Gestion_Manual_de_Usuario.pdf" target="_blank">Descargar</a>
-            </div>
+              <div class="button-wrap"><a download class="button button-default button-invariable" href="views/images/Syswa_Gestion_Manual_de_Usuario.pdf" target="_blank">Descargar</a></div>
             </div>
           </div>
         </div>
