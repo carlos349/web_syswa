@@ -9,18 +9,18 @@
         <h5>Contacto</h5>
         <dl class="list-terms-custom">
           <dt>Tel</dt>
-          <dd><a class="link-default" href="tel:#">1-300-123-1234</a></dd>
+          <dd><a class="link-default" href="https://api.whatsapp.com/send/?phone=56974684680&text&app_absent=0" target="_blank">+56 9 7468 4680</a></dd>
         </dl>
         <dl class="list-terms-custom">
           <dt>Email</dt>
           <dd><a class="link-default" href="mailto:#">info@syswa.net</a></dd>
         </dl>
         <ul class="list-inline list-inline-sm">
-          <li><a class="icon icon-sm icon-gray-filled icon-circle mdi mdi-instagram" href="https://www.instagram.com/syswanet/"></a></li>
-          <li><a class="icon icon-sm icon-gray-filled icon-circle mdi mdi-whatsapp" href="https://www.facebook.com/SYSWA-109541307469686"></a></li>
-          <li><a class="icon icon-sm icon-gray-filled icon-circle mdi mdi-facebook" href="https://www.facebook.com/SYSWA-109541307469686"></a></li>
+          <li><a class="icon icon-sm icon-gray-filled icon-circle mdi mdi-instagram" href="https://www.instagram.com/syswanet/" target="_blank"></a></li>
+          <li><a class="icon icon-sm icon-gray-filled icon-circle mdi mdi-whatsapp" href="https://api.whatsapp.com/send/?phone=56974684680&text&app_absent=0" target="_blank"></a></li>
+          <li><a class="icon icon-sm icon-gray-filled icon-circle mdi mdi-facebook" href="https://www.facebook.com/SYSWA-109541307469686" target="_blank"></a></li>
           
-          <li><a class="icon icon-sm icon-gray-filled icon-circle mdi mdi-linkedin" href="https://www.linkedin.com/company/syswa/"></a></li>
+          <li><a class="icon icon-sm icon-gray-filled icon-circle mdi mdi-linkedin" href="https://www.linkedin.com/company/syswa/"  target="_blank"></a></li>
         </ul>
       </div>
       <div class="col-lg-4">
@@ -40,8 +40,10 @@
   </div>
 </div>
 <div class="absolute_logo">
-  <button type="button" class="btn btn-success btn-lg" style="border-radius: 52%;"><i class="fa-brands fa-whatsapp"></i></button><br><br>
-  <button type="button" class="btn btn-primary btn-lg changeCurrency" style="border-radius: 50%;"><i class="fa-solid fa-flag" style="color:white !important;"></i></button>
+  <a href="https://api.whatsapp.com/send/?phone=56974684680&text&app_absent=0">
+    <button type="button" class="btn btn-success btn-lg" style="border-radius: 52%;"><i class="fa-brands fa-whatsapp"></i></button>
+  </a><br><br>
+  <button type="button" class="btn btn-primary btn-lg changeCurrency" style="border-radius: 48%;"><i class="fa-solid fa-flag" style="color:white !important;"></i></button>
 </div>
 <footer class="section footer-classic context-dark text-center">
   <div class="container">

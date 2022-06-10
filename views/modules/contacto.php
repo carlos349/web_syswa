@@ -18,8 +18,7 @@
                   <h6 class="box-lined-title">Correo & Teléfono</h6>
                   <ul class="box-lined-list">
                     <li><a class="big link-default" href="mailto:info@syswa.net">info@syswa.net</a></li>
-                    <li><a class="big link-default">9 4053 8571</a></li>
-                    <li><a class="big link-default">412 4053 857</a></li>
+                    <li><a class="big link-default" style="cursor:pointer;" href="https://api.whatsapp.com/send/?phone=56974684680&text&app_absent=0" target="_blank">+56 9 7468 4680</a></li>
                   </ul>
                 </div>
               </div>
@@ -40,9 +39,9 @@
                 <div class="box-lined-body">
                   <h6 class="box-lined-title">Redes sociales</h6>
                   <ul class="list-inline list-inline-sm">
-                    <li><a class="icon icon-sm icon-bordered link-default mdi mdi-facebook" href="#"></a></li>
-                    <li><a class="icon icon-sm icon-bordered link-default mdi mdi-instagram" href="#"></a></li>
-                    <li><a class="icon icon-sm icon-bordered link-default mdi mdi-linkedin" href="#"></a></li>
+                    <li><a class="icon icon-sm icon-bordered link-default mdi mdi-facebook" href="https://www.facebook.com/SYSWA-109541307469686" target="_blank"></a></li>
+                    <li><a class="icon icon-sm icon-bordered link-default mdi mdi-instagram" href="https://www.instagram.com/syswanet/" target="_blank"></a></li>
+                    <li><a class="icon icon-sm icon-bordered link-default mdi mdi-linkedin" href="https://www.linkedin.com/company/syswa/"  target="_blank"></a></li>
                   </ul>
                 </div>
               </div>

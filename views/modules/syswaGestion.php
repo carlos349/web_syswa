@@ -16,7 +16,7 @@
               <div class="section-sm section-sm-3">
                 <h5>GESTIONA TU NEGOCIO</h5>
                 <p>Sistema de agendamiento, diseñado para cubrir todas tus necesidades, pensado para tu pequeño, mediano o gran negocio de servicios, lleva el control con más de 10 secciones administrativas, y un montón de funcionalidades pensadas solo para ti.</p>
-                <div class="button-wrap"><a class="button button-default button-invariable" href="#">Me interesa</a></div>
+                <div class="button-wrap"><a class="button button-default button-invariable" href="https://api.whatsapp.com/send/?phone=56974684680&text&app_absent=0" target="_blank">Me interesa</a></div>
               </div>
             </div>
           </div>
@@ -92,8 +92,9 @@
               <h4>Consulta nuestro manual de uso</h4>
             </div>
             <div class="col-md-2">
-              <div class="button-wrap"><a download class="button button-default button-invariable" href="views/images/Syswa_Gestion_Manual_de_Usuario.pdf" target="_blank">Descargar</a>
-            </div>
+              <div class="button-wrap">
+                <a class="button button-default button-invariable" href="views/images/Syswa_Gestion_Manual_de_Usuario.pdf" download>Descargar</a>
+              </div>
             </div>
           </div>
         </div>
@@ -127,7 +128,7 @@
                   </div>
                   <hr class="w-50 mb-3 mt-3">
                   <center>
-                    <div class="button-wrap"><a class="button button-default button-invariable" href="#">Lo quiero</a></div>
+                    <div class="button-wrap"><a class="button button-default button-invariable" href="https://api.whatsapp.com/send/?phone=56974684680&text=¡Hola! Estoy interesado por el plan EMPRENDEDOR de syswa gestion.&app_absent=0" target="_blank">Lo quiero</a></div>
                   </center>
                 </div>
               </div>
@@ -156,7 +157,7 @@
                   </div>
                   <hr class="w-50 mt-3 mb-3">
                   <center>
-                    <div class="button-wrap"><a class="button button-default button-invariable" href="#">Lo quiero</a></div>
+                    <div class="button-wrap"><a class="button button-default button-invariable" href="https://api.whatsapp.com/send/?phone=56974684680&text=¡Hola! Estoy interesado por el plan PRO de syswa gestion.&app_absent=0" target="_blank">Lo quiero</a></div>
                   </center>
                 </div>
               </div>
@@ -182,7 +183,7 @@
                   </div>
                   <hr class="w-50 mt-3 mb-3">
                   <center>
-                    <div class="button-wrap"><a class="button button-default button-invariable" href="#">Lo quiero</a></div>
+                    <div class="button-wrap"><a class="button button-default button-invariable" href="https://api.whatsapp.com/send/?phone=56974684680&text=¡Hola! Estoy interesado por el plan BÁSICO de syswa gestion.&app_absent=0" target="_blank">Lo quiero</a></div>
                   </center>
                 </div>
               </div>

@@ -12169,7 +12169,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 }
 .absolute_logo {
 	position: fixed;
-	top: 80%;
+	top: 75%;
 	left: 2%;
 }
 html:not(.ie-11):not(.ios) .parallax-disabled {

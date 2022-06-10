@@ -14,7 +14,7 @@
                   <div class="text-1">Todo lo que necesitas</div>
                   <!-- <div class="text-2">es</div> -->
                   <div class="title">syswa gestión</div>
-                  <div class="button-wrap"><a class="button button-default button-invariable" href="#">Me interesa</a></div>
+                  <div class="button-wrap"><a class="button button-default button-invariable" href="syswagestion">Saber más</a></div>
                   <!-- <p class="big">Sistema de agendamiento, diseñado para cubrir todas tus necesidades, pensado para tu pequeño, mediano o gran negocio de servicios, lleva el control con más de 10 secciones administrativas, y un montón de funcionalidades pensadas solo para ti.</p> -->
                 </div>
               </div>
@@ -68,7 +68,7 @@
               <div class="section-sm section-sm-3">
                 <h5>GESTIONA TU NEGOCIO</h5>
                 <p>Sistema de agendamiento, diseñado para cubrir todas tus necesidades, pensado para tu pequeño, mediano o gran negocio de servicios, lleva el control con más de 10 secciones administrativas, y un montón de funcionalidades pensadas solo para ti.</p>
-                <div class="button-wrap"><a class="button button-default button-invariable" href="#">Me interesa</a></div>
+                <div class="button-wrap"><a class="button button-default button-invariable" href="syswagestion">Saber más</a></div>
                 
               </div>
             </div>
@@ -218,7 +218,7 @@
                 <div style="color:#84d152" class="heading-3 title"> <b id="landing">80.000 CLP</b> </div>
                 <p>Página informativa, especial para negocios que quieren darse conocer al público.</p>
                 <p>Te damos la ventaja de obtener tú página web con un ancho de banda ilimitado, formulario de contacto y hasta 5 correos administrativos.</p>
-                <div class="col-sm-6 text-sm-right mt-4"><a class="button button-default" href="#">¡La quiero!</a></div>
+                <div class="col-sm-6 text-sm-right mt-4"><a class="button button-default" href="https://api.whatsapp.com/send/?phone=56974684680&text&app_absent=0">¡La quiero!</a></div>
                 </div>
               </div>
             </div>
@@ -232,7 +232,7 @@
                   <div style="color:#84d152" class="heading-3 title"> <b id="ecommerce">130.000 CLP</b> </div>
                   <p>Página informativa, especial para negocios que quieren darse conocer al público.</p>
                   <p>Te damos la ventaja de obtener tú página web con un ancho de banda ilimitado, formulario de contacto y hasta 5 correos administrativos.</p>
-                  <div class="col-sm-6 text-sm-right mt-4"><a class="button button-default" href="#">¡La quiero!</a></div>
+                  <div class="col-sm-6 text-sm-right mt-4"><a class="button button-default" href="https://api.whatsapp.com/send/?phone=56974684680&text&app_absent=0">¡La quiero!</a></div>
                   </div>
                
                 <div class="col-md-6 col-lg-4 align-items-start">
